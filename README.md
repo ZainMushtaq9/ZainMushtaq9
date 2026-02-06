@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain Mustaq</h1>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ZainMushtaq9/ZainMushtaq9/main/TNCR-graphics-KB-2.gif" />
+<p align="right">
+  <img src="https://raw.githubusercontent.com/ZainMushtaq9/ZainMushtaq9/main/TNCR-graphics-KB-2.gif" width="300" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Muhammad Zain Mushtaq</h1>
 <h3 align="center">AI & Web Developer | FastAPI • Python • Modern Web Apps</h3>
 
 - 🔭 I’m currently working on [AIClinix – AI-Powered Medicine & Healthcare Platform](AI CV Analyzer)
