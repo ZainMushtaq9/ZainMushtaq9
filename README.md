@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain Mustaq</h1>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20AI%20coding%20Gif&imgurl=https%3A%2F%2Fnationalcioreview.com%2Fwp-content%2Fuploads%2F2025%2F09%2FTNCR-graphics-KB-2.gif&imgrefurl=https%3A%2F%2Fnationalcioreview.com%2Farticles-insights%2Ftechnology%2Fartificial-intelligence%2Fvibe-coding-moves-into-the-mainstream%2F&docid=19g1ZTRBMVHmrM&tbnid=1r5mGAKfFOmn0M&vet=12ahUKEwjP39aZs8WSAxW6h_0HHYcqH54QnPAOegQIOBAB..i&w=600&h=400&hcb=2&ved=2ahUKEwjP39aZs8WSAxW6h_0HHYcqH54QnPAOegQIOBAB/TNCR-graphics-KB-2.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ZainMushtaq9/ZainMushtaq9/main/TNCR-graphics-KB-2.gif" />
 <h3 align="center">AI & Web Developer | FastAPI • Python • Modern Web Apps</h3>
 
 - 🔭 I’m currently working on [AIClinix – AI-Powered Medicine & Healthcare Platform](AI CV Analyzer)
