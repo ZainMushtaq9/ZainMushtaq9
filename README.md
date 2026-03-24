@@ -247,5 +247,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a4a6b&height=120&section=footer&text=Open%20to%20Work%20%7C%20MENA%20%26%20Remote&fontSize=16&fontColor=B8860B&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a4a6b&height=120&section=footer&text=Open%20to%20Work%20%7C%20MENA%20and%20Remote&fontSize=16&fontColor=B8860B&fontAlignY=65&animation=fadeIn" width="100%"/>
 </p>
